@@ -8,8 +8,6 @@ superuser: true
 # Role/position/tagline
 role: Ph.D. Student 
 
-<a href="https://clustrmaps.com/site/1bjkm" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=I-tFRGSJktUGpI-aXzkrwqGWA58duuHbfpT9k6CYonY&cl=ffffff"></a>
-
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Ohio University
@@ -91,6 +89,7 @@ My research interests broadly are artificial intelligence and data mining, inclu
 
 
 
+<a href="https://clustrmaps.com/site/1bjkm" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=I-tFRGSJktUGpI-aXzkrwqGWA58duuHbfpT9k6CYonY&cl=ffffff"></a>
 
 
 
