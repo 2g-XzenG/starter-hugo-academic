@@ -26,7 +26,7 @@ experience:
     company: Research Institute at Nationwide Children's
     company_url: ''
     company_logo: nch
-    location: Columbus
+    location: Columbus, USA
     date_start: '2017-07-01'
     date_end: '2019-09-01'
     description: 
@@ -35,7 +35,7 @@ experience:
     company: Ohio University
     company_url: ''
     company_logo: ou
-    location: Athens
+    location: Athens, USA
     date_start: '2016-09-01'
     date_end: '2021-12-31'
     description: 
