@@ -70,7 +70,7 @@ I am currently a XXX since XXX. I received my PhD degree from the Department of 
 
 <span style="color:blue">:fire: NEWS :fire:</span>.
 
-<span style="color:blue"><sup> * *Aug 2021: [One paper is accepted by ACM-BCB on patient representation learning](https://acm-bcb.org/)!* </sup></span>.
+<span style="color:blue"><sup> * *Aug 2021: [One paper is accepted by ACM-BCB on patient representation learning](https://acm-bcb.org/)!* </sup></span>.\n
 <span style="color:blue"><sup> * *Aug 2021: [One paper is accepted by CD-MAKE on Explainable Artificial Intelligence (XAI)](https://cd-make.net/)!* </sup></span>.
 <span style="color:blue"><sup> * *Apr 2021: [Honored to receive the Three Minute Thesis (3MT) competition award](https://www.ohio.edu/news/2021/04/biology-engineering-students-win-three-minute-thesis-competition)!* </sup></span>.
 <span style="color:blue"><sup> - *Aug 2021: [One paper is accepted by CD-MAKE on Explainable Artificial Intelligence (XAI)](https://cd-make.net/)!* </sup></span>.
