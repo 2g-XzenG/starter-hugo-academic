@@ -22,15 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Data Scientist
-    company: Research Institute at Nationwide Children's
-    company_url: ''
-    company_logo: nch
-    location: Columbus, USA
-    date_start: '2017-07-01'
-    date_end: '2019-09-01'
-    description: 
-        
+    
   - title: Teaching Assistant
     company: Ohio University
     company_url: ''
@@ -40,6 +32,15 @@ experience:
     date_end: '2021-12-31'
     description: 
 
+  - title: Data Scientist
+    company: Research Institute at Nationwide Children's
+    company_url: ''
+    company_logo: nch
+    location: Columbus, USA
+    date_start: '2017-07-01'
+    date_end: '2019-09-01'
+    description: 
+    
 design:
   columns: '2'
 ---
