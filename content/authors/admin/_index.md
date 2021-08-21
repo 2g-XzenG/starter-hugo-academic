@@ -10,8 +10,8 @@ role: Ph.D. Student @ Ohio University
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Email: xz926813@ohio.edu
-  url: www.ohio.edu
+- name: Email
+  url: "mailto:xz926813@ohio.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Deep Learning, Healthcare, AI in Education. 
