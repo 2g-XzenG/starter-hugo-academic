@@ -72,5 +72,5 @@ I am currently a XXX since XXX. I received my PhD degree from the Department of 
 
 <span style="color:blue">:fire: NEWS :fire:</span>.
 
-- <sup>*Apr 2021: Honored to receive the Three Minute Thesis (3MT) competition award!* </sup>.
+<span style="color:blue"><sup>- *Apr 2021: Honored to receive the Three Minute Thesis (3MT) competition award!* </sup></span>.
 
