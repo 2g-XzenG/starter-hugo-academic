@@ -4,7 +4,7 @@
 widget: experience
 
 # This file represents a page section.
-headless: False
+headless: true
 
 # Order that this section appears on the page.
 weight: 40
@@ -29,6 +29,7 @@ experience:
     location: Columbus
     date_start: 'Jun 2017'
     date_end: 'Sep 2019'
+    description:
 design:
   columns: '2'
 ---
