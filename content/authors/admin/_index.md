@@ -67,10 +67,8 @@ highlight_name: false
 
 I am currently a XXX since XXX. I received my PhD degree from the Department of Electrical Engineering and Computer Science, Ohio University in 2021. My advisor was Prof. Chang Liu. Before that, I obtained M.S. from Ohio University and B.S from University of Science and Technology Beijing.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
-
 
 <span style="color:blue">:fire: NEWS :fire:</span>.
 
-<span style="color:blue"><sup> - *Apr 2021: Honored to receive the Three Minute Thesis (3MT) competition award!* </sup></span>.
+<span style="color:blue"><sup> - *Apr 2021: Honored to receive the [Three Minute Thesis (3MT) competition award](https://www.ohio.edu/news/2021/04/biology-engineering-students-win-three-minute-thesis-competition)!* </sup></span>.
 
