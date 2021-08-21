@@ -57,11 +57,6 @@ social:
   icon_pack: ai
   link: uploads/resume.pdf
 
-
-
-- <a href="https://clustrmaps.com/site/1bjkm" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=I-tFRGSJktUGpI-aXzkrwqGWA58duuHbfpT9k6CYonY&cl=ffffff"></a>
-
-
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "xz926813@ohio.edu"
 
@@ -91,7 +86,7 @@ My research interests broadly are artificial intelligence and data mining, inclu
 
 <span style="color:blue"><sup> - *Oct 2019: [Honored to receive the 2019 DII National Data Science Challenge award](https://sbmi.uth.edu/dii-challenge/index-new.htm)!* </sup></span>
 
-
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=I-tFRGSJktUGpI-aXzkrwqGWA58duuHbfpT9k6CYonY"></script>
 
 
 
