@@ -141,7 +141,7 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: ''
+  provider: '<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=I-tFRGSJktUGpI-aXzkrwqGWA58duuHbfpT9k6CYonY&cl=ffffff&w=a"></script>'
   api_key: ''
   zoom: 15
 marketing:
