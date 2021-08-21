@@ -69,6 +69,5 @@ I am currently a XXX since XXX. I received my PhD degree from the Department of 
 
 <span style="color:blue">:fire: NEWS :fire:</span>.
 
-- <span style="color:blue"><sup><sup>*Apr 2021: Honored to receive the [Three Minute Thesis (3MT) competition award](https://www.ohio.edu/news/2021/04/biology-engineering-students-win-three-minute-thesis-competition)!* </sup></sup></span>.
+- <sup><sup><span style="color:blue"><sup><sup>*Apr 2021: Honored to receive the [Three Minute Thesis (3MT) competition award](https://www.ohio.edu/news/2021/04/biology-engineering-students-win-three-minute-thesis-competition)!* </span></sup></sup>.
 
-- <span style="color:blue"><sup><sup>*Apr 2021: Honored to receive the [Three Minute Thesis (3MT) competition award](https://www.ohio.edu/news/2021/04/biology-engineering-students-win-three-minute-thesis-competition)!* </sup></sup></span>.
