@@ -65,8 +65,9 @@ email: "xz926813@ohio.edu"
 highlight_name: false
 ---
 
-I am currently a XXX since XXX. I received my PhD degree from the Department of Electrical Engineering and Computer Science, Ohio University in 2021. My advisor was Prof. Chang Liu. Before that, I obtained M.S. from Ohio University and B.S from University of Science and Technology Beijing.
+I am currently a XXX since XXX. I received my PhD degree under the supervision of Prof. Chang Liu from the Department of Electrical Engineering and Computer Science, Ohio University in 2021. Before that, I obtained M.S. from Ohio University and B.S from University of Science and Technology Beijing.
 
+My research interests broadly are artificial intelligence and data mining, including healthcare, nature language processing and education.
 
 <span style="color:blue">:fire: NEWS :fire:</span>
 
