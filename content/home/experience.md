@@ -25,10 +25,10 @@ experience:
   - title: CEO
     company: GenCoin
     company_url: ''
-    company_logo: org-gc
+    company_logo: nch
     location: California
-    date_start: '2021-01-01'
-    date_end: ''
+    date_start: '2019-01-01'
+    date_end: '2021-01-01'
     description: |2-
         Responsibilities include:
         
