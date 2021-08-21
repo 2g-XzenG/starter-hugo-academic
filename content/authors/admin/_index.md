@@ -86,7 +86,6 @@ My research interests broadly are artificial intelligence and data mining, inclu
 
 <span style="color:blue"><sup> - *Oct 2019: [Honored to receive the 2019 DII National Data Science Challenge award](https://sbmi.uth.edu/dii-challenge/index-new.htm)!* </sup></span>
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=I-tFRGSJktUGpI-aXzkrwqGWA58duuHbfpT9k6CYonY"></script>
 
 
 
