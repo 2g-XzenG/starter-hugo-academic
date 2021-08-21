@@ -59,7 +59,7 @@ social:
 
 
 
-<a href="https://clustrmaps.com/site/1bjkm" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=I-tFRGSJktUGpI-aXzkrwqGWA58duuHbfpT9k6CYonY&cl=ffffff"></a>
+- <a href="https://clustrmaps.com/site/1bjkm" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=I-tFRGSJktUGpI-aXzkrwqGWA58duuHbfpT9k6CYonY&cl=ffffff"></a>
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
