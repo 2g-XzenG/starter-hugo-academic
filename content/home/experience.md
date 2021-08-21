@@ -27,8 +27,8 @@ experience:
     company_url: ''
     company_logo: nch
     location: Columbus
-    date_start: 'Jun 2017'
-    date_end: 'Sep 2019'
+    date_start: '2017-07-01'
+    date_end: '2019-09-01'
     description:
 design:
   columns: '2'
