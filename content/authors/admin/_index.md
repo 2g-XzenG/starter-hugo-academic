@@ -8,7 +8,7 @@ superuser: true
 # Role/position/tagline
 role: Ph.D. Student 
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=I-tFRGSJktUGpI-aXzkrwqGWA58duuHbfpT9k6CYonY&cl=ffffff&w=a"></script>
+<a href="https://clustrmaps.com/site/1bjkm" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=I-tFRGSJktUGpI-aXzkrwqGWA58duuHbfpT9k6CYonY&cl=ffffff"></a>
 
 # Organizations/Affiliations to show in About widget
 organizations:
