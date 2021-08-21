@@ -8,6 +8,8 @@ superuser: true
 # Role/position/tagline
 role: Ph.D. Student 
 
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=I-tFRGSJktUGpI-aXzkrwqGWA58duuHbfpT9k6CYonY&cl=ffffff&w=a"></script>
+
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Ohio University
