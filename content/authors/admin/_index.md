@@ -53,9 +53,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+- icon: cv
+  icon_pack: ai
+  link: uploads/resume.pdf
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
@@ -72,5 +72,5 @@ I am currently a XXX since XXX. I received my PhD degree from the Department of 
 
 <span style="color:blue">:fire: NEWS :fire:</span>.
 
-<sup>- *Apr 2021: Honored to receive the Three Minute Thesis (3MT) competition award!* </sup>.
+<span style="color:blue"><sup> - *Apr 2021: Honored to receive the Three Minute Thesis (3MT) competition award!* </sup></span>.
 
