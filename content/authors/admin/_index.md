@@ -41,8 +41,8 @@ education:
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
 - icon: envelope
-  icon_pack: fab
-  link: "mailto:xz926813@ohio.edu"
+  icon_pack: fas
+  link: '/#contact' <!-- for direcit email "mailto:xz926813@ohio.edu" -->
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?user=NuXIg9UAAAAJ&hl=en
