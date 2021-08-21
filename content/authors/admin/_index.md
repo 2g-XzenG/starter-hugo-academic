@@ -63,11 +63,11 @@ email: "xz926813@ohio.edu"
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 
-
+---
 I am currently a XXX since XXX. I received my PhD degree under the supervision of Prof. Chang Liu from the Department of Electrical Engineering and Computer Science, Ohio University in 2021. Before that, I obtained M.S. from Ohio University and B.S from University of Science and Technology Beijing.
 
 My research interests broadly are artificial intelligence and data mining, including healthcare, nature language processing and education.
----
+
 <span style="color:blue">:fire: NEWS :fire:</span>
 
 <span style="color:blue"><sup> - *Aug 2021: [One paper is accepted by ACM-BCB on patient representation learning](https://acm-bcb.org/)!* </sup></span>
