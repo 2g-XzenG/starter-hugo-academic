@@ -6,12 +6,12 @@ title: Zeng Xianlong
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Student @ Ohio University
+role: Ph.D. Student 
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Email
-  url: "mailto:xz926813@ohio.edu"
+- name: Ohio University
+  url: https://www.ohio.edu
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Deep Learning, Healthcare, AI in Education. 
@@ -40,6 +40,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
+- icon: envelope
+  icon_pack: fab
+  link: "mailto:xz926813@ohio.edu"
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?user=NuXIg9UAAAAJ&hl=en
