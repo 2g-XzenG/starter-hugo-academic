@@ -10,8 +10,8 @@ role: Ph.D. Student @ Ohio University
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Ohio University
-  url: https://www.ohio.edu/
+- name: Email: xz926813@ohio.edu
+  url: mailto:xz926813@ohio.edu
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Deep Learning, Healthcare, AI in Education. 
@@ -46,9 +46,6 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/DrXZenG
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/xianlong-zeng-756a34b9/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
