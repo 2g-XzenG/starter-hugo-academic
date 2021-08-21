@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Xianlong Zeng # Website name
+title: 曾宪龙 # Website name
 baseurl: 'https://drxzeng.com/' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
