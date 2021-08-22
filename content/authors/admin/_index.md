@@ -6,12 +6,12 @@ title: Zeng Xianlong
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Student 
+role: XXX Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Ohio University
-  url: https://www.ohio.edu
+- name: XXXX University
+  url: 
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Deep Learning, Healthcare, AI in Education. 
@@ -64,9 +64,9 @@ email: "xz926813@ohio.edu"
 highlight_name: false
 
 ---
-I am currently a XXX since XXX. I received my PhD degree under the supervision of Prof. Chang Liu from the Department of Electrical Engineering and Computer Science, Ohio University in 2021. Before that, I obtained M.S. from Ohio University and B.S from University of Science and Technology Beijing.
+I am currently a XXX since XXX. I received my Ph.D. degree under the supervision of Prof. Chang Liu from the Department of Electrical Engineering and Computer Science, Ohio University in XXXX. Before that, I obtained my M.S. in Mathematics from Ohio University and B.S in Applied Mathematics from University of Science and Technology Beijing.
 
-My research interests broadly are artificial intelligence and data mining, including healthcare, nature language processing and education.
+My research interests are artificial intelligence and data mining, particularly in healthcare, natural language processing, and education.
 
 <span style="color:blue">:fire: NEWS :fire:</span>
 
